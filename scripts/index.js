@@ -1,6 +1,6 @@
 "use strict";
 
-// HOMEWORK #22
+// HOMEWORK #23
 
 //1//
 console.log("Task#1");
